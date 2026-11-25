@@ -1,0 +1,4 @@
+eb2cdce Refactor inventory management: add helper functions, restructure inventory data, and remove legacy code
+2b9d50b first commit
+* eb2cdce - Kae, 2026-11-24 | Refactor inventory management: add helper functions, restructure inventory data, and remove legacy code
+* 2b9d50b - Kae, 2026-11-24 | first commit
